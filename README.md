@@ -1,2 +1,2 @@
-# Bioinformatics
-Bioinformatics automation tools 
+# Python Script for PCR primer generation
+
