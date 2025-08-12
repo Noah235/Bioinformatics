@@ -1,0 +1,17 @@
+CP009273.1	Genbank	gene	1015866	1016375	.	-	.	ID=gene-BW25113_0958;Name=sulA;gbkey=Gene;gene=sulA;gene_biotype=protein_coding;gene_synonym=ECK0949,JW0941,sfiA;locus_tag=BW25113_0958
+CP009273.1	Genbank	gene	1106319	1108862	.	+	.	ID=gene-BW25113_1049;Name=opgH;gbkey=Gene;gene=opgH;gene_biotype=protein_coding;gene_synonym=ECK1035,JW1037,mdoA,mdoH;locus_tag=BW25113_1049
+CP009273.1	Genbank	gene	1286913	1287821	.	+	.	ID=gene-BW25113_1236;Name=galU;gbkey=Gene;gene=galU;gene_biotype=protein_coding;gene_synonym=ECK1231,JW1224,verA,ychD;locus_tag=BW25113_1236
+CP009273.1	Genbank	gene	1751678	1751914	.	+	.	ID=gene-BW25113_1677;Name=lpp;gbkey=Gene;gene=lpp;gene_biotype=protein_coding;gene_synonym=ECK1673,JW1667,mlpA,mulI;locus_tag=BW25113_1677
+CP009273.1	Genbank	gene	1807678	1807920	.	-	.	ID=gene-BW25113_1731;Name=cedA;gbkey=Gene;gene=cedA;gene_biotype=protein_coding;gene_synonym=ECK1729,JW1720,ydjP;locus_tag=BW25113_1731
+CP009273.1	Genbank	gene	709014	710654	.	+	.	ID=gene-BW25113_0688;Name=pgm;gbkey=Gene;gene=pgm;gene_biotype=protein_coding;gene_synonym=blu,ECK0676,JW0675,pgmA;locus_tag=BW25113_0688
+CP009273.1	Genbank	gene	713718	715916	.	-	.	ID=gene-BW25113_0693;Name=speF;gbkey=Gene;gene=speF;gene_biotype=protein_coding;gene_synonym=ECK0681,JW0680;locus_tag=BW25113_0693
+CP009273.1	Genbank	gene	1400820	1402052	.	-	.	ID=gene-BW25113_1341;Name=ydaM;gbkey=Gene;gene=ydaM;gene_biotype=protein_coding;gene_synonym=ECK1338,JW5206;locus_tag=BW25113_1341
+CP009273.1	Genbank	gene	161217	163751	.	+	.	ID=gene-BW25113_0149;Name=mrcB;gbkey=Gene;gene=mrcB;gene_biotype=protein_coding;gene_synonym=ECK0148,JW0145,pbpF,ponB;locus_tag=BW25113_0149
+CP009273.1	Genbank	gene	3516230	3518782	.	+	.	ID=gene-BW25113_3396;Name=mrcA;gbkey=Gene;gene=mrcA;gene_biotype=protein_coding;gene_synonym=ECK3383,JW3359,ponA;locus_tag=BW25113_3396
+CP009273.1	Genbank	gene	3286759	3288795	.	+	.	ID=gene-BW25113_3147;Name=lpoA;gbkey=Gene;gene=lpoA;gene_biotype=protein_coding;gene_synonym=ECK3135,JW3116,yraM;locus_tag=BW25113_3147
+CP009273.1	Genbank	gene	1158094	1158735	.	+	.	ID=gene-BW25113_1105;Name=lpoB;gbkey=Gene;gene=lpoB;gene_biotype=protein_coding;gene_synonym=ECK1091,JW5157,ycfM;locus_tag=BW25113_1105
+CP009273.1	Genbank	gene	3509379	3510665	.	-	.	ID=gene-BW25113_3388;Name=damX;gbkey=Gene;gene=damX;gene_biotype=protein_coding;gene_synonym=ECK3375,JW3351,yhfB;locus_tag=BW25113_3388
+CP009273.1	Genbank	gene	1220841	1221536	.	-	.	ID=gene-BW25113_1176;Name=minC;gbkey=Gene;gene=minC;gene_biotype=protein_coding;gene_synonym=ECK1164,JW1165,minB;locus_tag=BW25113_1176
+CP009273.1	Genbank	gene	2817850	2818935	.	-	.	ID=gene-BW25113_2701;Name=mltB;gbkey=Gene;gene=mltB;gene_biotype=protein_coding;gene_synonym=ECK2696,JW2671;locus_tag=BW25113_2701
+CP009273.1	Genbank	gene	2859918	2860910	.	-	.	ID=gene-BW25113_2741;Name=rpoS;gbkey=Gene;gene=rpoS;gene_biotype=protein_coding;gene_synonym=abrD,appR,csi2,dpeB,ECK2736,JW5437%3BkatF,nur,otsX,sigS;locus_tag=BW25113_2741
+CP009273.1	Genbank	gene	3206406	3208247	.	+	.	ID=gene-BW25113_3067;Name=rpoD;gbkey=Gene;gene=rpoD;gene_biotype=protein_coding;gene_synonym=alt,ECK3057,JW3039;locus_tag=BW25113_3067
